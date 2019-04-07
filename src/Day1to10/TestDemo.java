@@ -1,4 +1,4 @@
-package Tutorials30DayOfCode;
+package Day1to10;
 
 /**
  * Created by sattallah on 5/28/2017.
@@ -6,8 +6,8 @@ package Tutorials30DayOfCode;
 public class TestDemo {
     public static int minPieces(int[] original, int[] desired) {
         //throw new UnsupportedOperationException("Waiting to be implemented.");
-        int i = 0, j = 0;
-        for (i = 0; i < original.length; i++){
+        int j = 0;
+        for (int i = 0; i < original.length; i++){
             if (original[i] != desired[i]){
                 j++;
             }

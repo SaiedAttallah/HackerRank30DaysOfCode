@@ -1,4 +1,4 @@
-package Tutorials30DayOfCode;
+package Day1to10;
 
 /**
  * Created by SaiedAttallah on 4/17/2017.

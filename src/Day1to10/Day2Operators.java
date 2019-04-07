@@ -1,4 +1,4 @@
-package Tutorials30DayOfCode;
+package Day1to10;
 
 import java.util.Scanner;
 

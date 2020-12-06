@@ -2,40 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67272d4c-9c07-4c5e-abbf-6cecc2164900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank30DaysOfCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day11/Solution2DArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day12/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day12/SolutionInheritance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day12/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day13/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day13/MyBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day13/SolutionAbstractClasses.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day14/Difference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day14/SolutionScope.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/Day0HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/Day10BinaryNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/Day1DataTypes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/Day2Operators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/Day3IntroToConditionalStatements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/Day4ClassVsInstance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/Day5Loops.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/Day6LetsReview.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/Day8DictionariesAndMaps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/Day9Recursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day1to10/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/META-INF/HackerRank30DaysOfCode.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/SolutionInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day12/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day13/SolutionAbstractClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day14/Difference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day14/SolutionScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day15/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day15/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/Day16/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day15/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day16/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank30DaysOfCode/META-INF/HackerRank30DaysOfCode.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +22,20 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Day16/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,15 +56,11 @@
         <option value="$PROJECT_DIR$/src/D12/SolutionInheritance.java" />
         <option value="$PROJECT_DIR$/src/D12/Student.java" />
         <option value="$PROJECT_DIR$/src/D13/SolutionAbstractClasses.java" />
-        <option value="$PROJECT_DIR$/src/Day14/SolutionScope.java" />
         <option value="$PROJECT_DIR$/src/Day14/Difference.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/src/Day15/Node.java" />
+        <option value="$PROJECT_DIR$/src/Day15/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Day14/SolutionScope.java" />
+        <option value="$PROJECT_DIR$/src/Day16/Solution.java" />
       </list>
     </option>
   </component>
@@ -92,6 +75,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,13 +90,30 @@
             </path>
             <path>
               <item name="HackerRank30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank30DaysOfCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Day14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank30DaysOfCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Day15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank30DaysOfCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Day16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank30DaysOfCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -133,13 +134,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SolutionScope">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Day0HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day1to10.Day0HelloWorld" />
       <module name="HackerRank30DaysOfCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Day1to10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day16.Solution" />
+      <module name="HackerRank30DaysOfCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,6 +189,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.SolutionScope" />
         <item itemvalue="Application.SolutionInheritance" />
         <item itemvalue="Application.Day0HelloWorld" />
@@ -199,16 +214,32 @@
       <option name="project" value="LOCAL" />
       <updated>1554674430363</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day11, Day12, Day13, Day14">
+      <created>1596497177889</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596497177894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22300771" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2281491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
-      <window_info id="Learn" order="3" />
+      <window_info id="Learn" order="3" weight="0.25128534" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -217,11 +248,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -232,7 +263,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day11" />
+    <MESSAGE value="Day11, Day12, Day13, Day14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day11, Day12, Day13, Day14" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Day1to10/Day3IntroToConditionalStatements.java">
@@ -246,13 +278,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day12/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -277,20 +302,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day14/SolutionScope.java">
+    <entry file="file://$PROJECT_DIR$/src/Day12/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day14/Difference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="e#143#144#0" expanded="true" />
             <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day15/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day15/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank30DaysOfCode.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day14/SolutionScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day16/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
